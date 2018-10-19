@@ -4,4 +4,4 @@
 
 2. git remote add origin https://github.com/al3623/hack3157.git
   
-3. 
+3. git branch --setupstream-to=origin/master
