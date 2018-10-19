@@ -2,6 +2,6 @@
 
 1. git init
 
-2. git remote set-url origin <URL>
+2. git remote add origin https://github.com/al3623/hack3157.git
   
 3. 
