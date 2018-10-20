@@ -1,7 +1,6 @@
 /*
  * hack3157 demo
-*/
->>>>>>> e3feef3... Add comment!
+*/j
 #include <stdio.h>
 
 int main() {
