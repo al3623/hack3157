@@ -12,13 +12,11 @@
 
 6. git remove (--cached)
 
+17. git reset (--hard) “commit hash“
+
 7. git checkout -- "filename"
 
-8. git checkout "branch"
-
 9. git checkout "commit hash"
-
-10. git reset (--hard) “commit hash“
 
 11. git rebase
 
