@@ -1,6 +1,6 @@
 /*
  * hack3157 demo
-*/j
+*/
 #include <stdio.h>
 
 int main() {
