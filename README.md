@@ -23,3 +23,5 @@
 11. git rebase
 
 12. git push
+
+13. git pull
